@@ -5,11 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/week01/work2_maoyanSpider" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week02/week02-1/movie_ip" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6 (Python003-003-gRtFRnCq)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (Python003-003-gRtFRnCq) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
-    <option name="projectConfiguration" value="py.test" />
+    <option name="projectConfiguration" value="pytest" />
     <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
 </module>
